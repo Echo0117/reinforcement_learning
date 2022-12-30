@@ -7,10 +7,10 @@
 
 Implementing several Reinforcement Learning basic tasks.
 
-* [Cliff_Walking](Cliff Walking/TP_1.ipynb)
-* [MultiArmed_Bandits](MultiArmed Bandits/TP_2.ipynb)
+* [Cliff Walking](Cliff%20Walking/TP_1.ipynb)
+* [MultiArmed Bandits](MultiArmed%20Bandits/TP_2.ipynb)
 * [MCTS](MCTS/TP3.ipynb)
-* [Approximation_Functions](Approximation Functions/TP4.ipynb)
+* [Approximation Functions](Approximation%20Functions/TP4.ipynb)
 
 
 # Credit
